@@ -1,2 +1,2 @@
 # CatchAll-tools
-Species richness with high diversity
+Tools to assist with running CatchAll en masse
